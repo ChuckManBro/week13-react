@@ -1,10 +1,6 @@
 # Promineo Week-13: Intro to React
 
-![Alt image description here](./images/egypt.jpeg)
-
-## First React Project - Login
-
-Description
+![Screenshot of log in window](./images/example-screenshot.png)
 
 ### Coding Assignment Instructions:
 
