@@ -1,6 +1,6 @@
 # Promineo Week-13: Intro to React
 
-![Screenshot of log in window](./images/example-screenshot.png)
+![Screenshot of log in window](./src/images/example-screenshot.png)
 
 ### Coding Assignment Instructions:
 
