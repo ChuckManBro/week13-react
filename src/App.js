@@ -29,7 +29,7 @@ getAllUsers();
 
 //COMPONENT - App
 function App() {
-	const [loggedIn, setLoggedIn] = useState(false); //TESTING - default to false
+	const [loggedIn, setLoggedIn] = useState(false);
 	const [selectedCountry, setSelectedCountry] = useState('israel');
 
 	return (
